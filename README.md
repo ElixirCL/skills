@@ -1,2 +1,8 @@
-# skills
-🤹‍♂️ A collection of claude skills for Elixir projects
+# 🤹‍♂️ Skills
+A collection of Claude skills for Elixir projects
+
+Clone with
+
+```bash
+git clone --recurse-submodules git@github.com:ElixirCL/skills.git
+```
