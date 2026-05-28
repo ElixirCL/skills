@@ -1,3 +1,6 @@
 [submodule "tiagodavi"]
 	path = tiagodavi
 	url = git@github.com:tiagodavi/claude-skills.git
+[submodule "claude-elixir-phoenix"]
+	path = claude-elixir-phoenix
+	url = https://github.com/oliver-kriska/claude-elixir-phoenix
